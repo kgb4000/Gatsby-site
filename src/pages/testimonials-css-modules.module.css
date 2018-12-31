@@ -1,0 +1,30 @@
+.testimonial {
+  background-color: #eee;
+  padding: 2em;
+  margin: 2em 0;
+}
+
+.ratings {
+  text-align: center;
+  font-size: 1.5em;
+  letter-spacing: 0.2rem;
+}
+
+.avatar {
+  display: block;
+  width: 60px;
+  height: 60px;
+  margin: 1.5em auto;
+  border-radius: 50%;
+  border: 2px solid #000;
+}
+
+.description {
+  flex: 1;
+  margin-left: 18px;
+  padding: 12px;
+}
+
+.username {
+  text-align: center;
+}
