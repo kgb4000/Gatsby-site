@@ -21,6 +21,9 @@ export default () => (
           is exactly how I want my guest to feel, weclomed.
         </p>
       </Container>
+      <Container>
+        <hr />
+      </Container>
     </section>
     <Testimonials />
     <Footer />
